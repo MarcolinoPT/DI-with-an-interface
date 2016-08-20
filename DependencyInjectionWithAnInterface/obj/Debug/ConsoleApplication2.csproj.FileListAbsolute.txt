@@ -1,0 +1,17 @@
+c:\users\marco\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Practices.Unity.dll
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\SimpleInjector.dll
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Practices.Unity.xml
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\SimpleInjector.xml
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\Users\Marco\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

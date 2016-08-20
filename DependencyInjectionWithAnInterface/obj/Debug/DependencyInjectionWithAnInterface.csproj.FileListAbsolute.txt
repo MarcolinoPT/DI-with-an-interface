@@ -1,0 +1,17 @@
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\ConsoleApplication2.exe.config
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\obj\Debug\ConsoleApplication2.exe
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\obj\Debug\ConsoleApplication2.pdb
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\ConsoleApplication2.exe
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\ConsoleApplication2.pdb
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\SimpleInjector.dll
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\bin\Debug\SimpleInjector.xml
+D:\Marco\Documents\Visual Studio 2015\Projects\DependencyInjectionWithAnInterface\DependencyInjectionWithAnInterface\obj\Debug\DependencyInjectionWithAnInterface.csprojResolveAssemblyReference.cache
